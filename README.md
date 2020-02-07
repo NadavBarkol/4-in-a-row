@@ -12,9 +12,9 @@ run first client side:
 run second client side:  
 	ex4.exe client <logfile path> <server port> <input_mode> <input file>
   
-note: <input mode> argument on client side defines if this client is played by a human or from an input file.
-if you choose human: input_mode = human & leave the <input_file> argument empty.
-if you choose file: input_mode = file  & input file = path of the input file.
+note: <input mode> argument on client side defines if this client is played by a human or from an input file.  
+if you choose human: input_mode = human & leave the <input_file> argument empty.  
+if you choose file: input_mode = file  & input file = path of the input file.  
   
   
 HOW TO PLAY
